@@ -1,0 +1,9 @@
+Excel to jpg: https://www.zamzar.com/convert/xls-to-png/
+
+GIF:
+https://ezgif.com/maker
+Delay time: 100
+crossfade frames
+  Fader delay: 10
+  Frame count: 5
+  don't fade last to first frame
